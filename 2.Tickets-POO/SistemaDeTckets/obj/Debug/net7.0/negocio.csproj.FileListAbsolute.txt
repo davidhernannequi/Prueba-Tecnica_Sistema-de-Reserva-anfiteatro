@@ -1,0 +1,37 @@
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\negocio.exe
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\negocio.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\negocio.runtimeconfig.json
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\bin\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\refint\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\negocio.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\SistemaDeTckets\obj\Debug\net7.0\ref\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\negocio.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\negocio.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\negocio.runtimeconfig.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\bin\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.sourcelink.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\refint\negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\negocio.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\SistemaDeTckets\obj\Debug\net7.0\ref\negocio.dll

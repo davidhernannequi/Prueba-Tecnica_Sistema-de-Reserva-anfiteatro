@@ -1,0 +1,30 @@
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\bin\Debug\net7.0\Asientos.cs.exe
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\bin\Debug\net7.0\Asientos.cs.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\bin\Debug\net7.0\Asientos.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\bin\Debug\net7.0\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\bin\Debug\net7.0\Asientos.cs.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\refint\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\Asientos.cs.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\1. Reserva de asientos - Logica\Logica\Asientos.cs\obj\Debug\net7.0\ref\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\bin\Debug\net7.0\Asientos.cs.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\bin\Debug\net7.0\Asientos.cs.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\bin\Debug\net7.0\Asientos.cs.runtimeconfig.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\bin\Debug\net7.0\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\bin\Debug\net7.0\Asientos.cs.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.sourcelink.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\refint\Asientos.cs.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\Asientos.cs.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\1. Reserva-Asientos-Logica\obj\Debug\net7.0\ref\Asientos.cs.dll

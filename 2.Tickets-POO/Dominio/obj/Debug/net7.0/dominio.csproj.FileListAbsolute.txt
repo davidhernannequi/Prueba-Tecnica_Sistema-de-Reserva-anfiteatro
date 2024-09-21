@@ -1,0 +1,24 @@
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\bin\Debug\net7.0\dominio.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\bin\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\bin\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\refint\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Sistema de Reserva de un anfiteatro - Prueba Tecnica\2. Sistema de Tickets - POO\SistemaDeTckets\Dominio\obj\Debug\net7.0\ref\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\bin\Debug\net7.0\dominio.deps.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\bin\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\bin\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.sourcelink.json
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\refint\dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-TodoCodeAcademy\Prueba-Tecnica_Sistema-de-Reserva-anfiteatro\2.Tickets-POO\Dominio\obj\Debug\net7.0\ref\dominio.dll
